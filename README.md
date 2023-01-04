@@ -15,5 +15,8 @@ docsify serve docs
 > [7. Java反射](JavaSE/Java反射.md)<br>
 > [8. JavaI/O](JavaSE/JavaIO.md)<br>
 > [9. Java图形化](JavaSE/Java图形化.md)<br>
+> [10. Java面试题(1)](JavaSE/Java面试题(1).md)<br>
+> [11. Java面试题(2)](JavaSE/Java面试题(2).md)<br>
+> [12. Java面试题(3)](JavaSE/Java面试题(3).md)<br>
 
 ## JVM
